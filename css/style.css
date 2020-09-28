@@ -1,0 +1,290 @@
+.colour_d{
+   background-color: hsl(264, 100%, 61%);
+   height: 580px;
+   width: 350px;
+   border-radius:0px;
+   float: left;
+   top: -300px;
+   border-bottom-left-radius: 300px;
+   border-bottom-right-radius: 400px;
+   margin-left:-50px;
+   position: relative;
+   padding-top: 150px;
+   padding-bottom: 160px;
+   
+   
+
+
+}
+.phone_d{
+    border: 6px solid white;
+    height: 470px;
+    width: 250px;
+    margin-left: 235px;
+    position: relative;
+    background-color:hsl(270, 20%, 96%) ;
+    border-radius: 20px;
+    top: 100px;
+}
+.d4{
+    top: -300px;
+    background-color:hsl(264, 100%, 61%) ;
+    height: 60px;
+    border-top-right-radius: 14px;
+    border-top-left-radius: 14px;
+    
+}
+.img_t{
+    width: 30px;
+    border-radius: 100px;
+    margin-top: 20px;
+    margin-left: -30px;
+}
+.phone_h2{
+    text-align: center;
+    font-size: 14px;
+    top: -44px;
+    position: relative;
+    padding-right: 80px;
+    color:hsl(276, 100%, 81%);
+}
+.phone_p{
+    text-align: center;
+    font-size: 11px;
+    top: -56px;
+    position: relative;
+    padding-right: 90px;
+    color:hsl(276, 100%, 81%);
+}
+.top_b{
+    border: 2px solid white;
+    width: 130px;
+    height: 15px;
+    position: relative;
+    top: -60px;
+    margin-left: 60px;
+    padding-left: 15x;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    background-color: white;
+}
+body{
+    background-color: hsl(0, 0%, 100%);
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    overflow-x:hidden;
+    overflow-y: hidden;
+}
+.p_dog{
+    border: 2px solid hsl(270, 7%, 64%) ;
+    height: 30px;
+    width: 130px;
+    font-size: 11px;
+    float: left;
+    position: relative;
+    margin-left: -60px;
+    border-radius: 6px;
+    color:hsl(276, 55%, 52%);
+    background-color:  hsl(270, 7%, 64%) ;
+    top: -20px;
+    
+}
+.pp_dog{
+    border: 2px solid hsl(270, 7%, 64%) ;
+    height: 34px;
+    width: 130px;
+    font-size: 10px;
+    float: left;
+    position: relative;
+    margin-left: -132px;
+    border-radius: 6px;
+    color:hsl(276, 55%, 52%);
+    background-color:  hsl(270, 7%, 64%) ;
+    top: 5px;
+    
+}
+.img_g{
+    width: 35px;
+    border-radius: 10px;
+    position: relative;
+    top: 60px;
+    margin: 2px;
+    
+}
+.img_source{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.p2_dog{
+    border: 2px solid white ;
+    height: 30px;
+    width: 130px;
+    font-size: 11px;
+    float: right;
+    top: 40px;
+    position: relative;
+    color:hsl(271, 15%, 43%);
+    background-color: white;
+    border-radius: 6px;
+    margin-right: 10px;
+}
+.pp2_dog{
+    border: 2px solid white ;
+    height: 14px;
+    width: 100px;
+    font-size: 11px;
+    float: right;
+    top: 25px;
+    position: relative;
+    color:hsl(271, 15%, 43%);
+    background-color: white;
+    border-radius: 6px;
+    margin-right: 10px;
+}
+.pp3_dog{
+    border: 2px solid hsl(270, 7%, 64%) ;
+    height: 34px;
+    width: 130px;
+    font-size: 9.5px;
+    float: left;
+    position: relative;
+    margin-left: -60px;
+    border-radius: 6px;
+    color:hsl(276, 55%, 52%);
+    background-color:  hsl(270, 7%, 64%) ;
+    top: 60px;
+}
+.but1{
+    width: 16px;
+    height: 16px;
+    border-radius: 25px;
+    position: relative;
+    top: 6px;
+     background-color:hsl(276, 55%, 52%) ;
+     border:2px solid hsl(276, 100%, 81%); 
+}
+.class_div{
+    border: 2px solid hsl(276, 42%, 43%) ;
+    height: 30px;
+    width: 170px;
+    font-size: 11px;
+    float: left;
+    position: relative;
+    margin-left: -135px;
+    border-radius: 6px;
+    top: 80px;
+    padding-left: 5px;
+    background-color:hsl(276, 42%, 43%) ;
+}
+.p_but1{
+    position: relative;
+    top: -20px;
+    padding-left: 25px;
+    color:hsl(276, 100%, 81%);
+
+}
+.pp_but1{
+    position: relative;
+    top: -55px;
+    padding-left: 25px;
+    float: right;
+    padding-right: 10px;
+    color:white;
+}
+.but2{
+    width: 16px;
+    height: 16px;
+    border-radius: 25px;
+    position: relative;
+    top: 6px;
+     background-color:hsl(276, 55%, 52%) ;
+     border:2px solid hsl(276, 100%, 81%); 
+}
+.class_div2{
+    border: 2px solid hsl(276, 42%, 43%) ;
+    height: 30px;
+    width: 170px;
+    font-size: 11px;
+    float: left;
+    position: relative;
+    margin-left: -178px;
+    border-radius: 6px;
+    top: 120px;
+    padding-left: 5px;
+    background-color:hsl(276, 42%, 43%) ;
+}
+.p_but2{
+    position: relative;
+    top: -20px;
+    padding-left: 25px;
+    color:hsl(276, 100%, 81%);
+
+}
+.pp_but2{
+    position: relative;
+    top: -55px;
+    padding-left: 25px;
+    float: right;
+    padding-right: 10px;
+    color:white;
+}
+.message_div{
+    border: 2px solid white ;
+    height: 30px;
+    width: 220px;
+    font-size: 11px;
+    float: left;
+    position: relative;
+    top: -470px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: white;
+    margin-left: 3px;
+}
+.message_p{
+    color:hsl(206, 6%, 79%);
+}
+.message_but{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    position: relative;
+    color: white;
+    background-color:hsl(271, 36%, 24%) ;
+    border: 2px solid hsl(271, 36%, 24%);
+    float: right;
+    top: -30px;
+}
+.simple_div{
+    float:right;
+    position: relative;
+    top: -650px;
+    margin-right: 370px;
+}
+.simple_h{
+    
+    color:hsl(271, 36%, 24%);
+}
+.simple_p{
+ font-size: 14px;
+ line-height: 20px;
+ color:hsl(270, 7%, 64%);
+ 
+}
+.colour_dd{
+    background-color: hsl(270, 7%, 64%);
+   height: 610px;
+   width: 350px;
+   border-radius:0px;
+   float: none;
+   top:-370px;
+   border-top-left-radius: 300px;
+   border-top-right-radius: 300px;
+   position:relative;
+   margin-left: 1100px;
+   
+   
+}
